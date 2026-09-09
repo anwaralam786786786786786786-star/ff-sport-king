@@ -1,0 +1,9 @@
+{
+  "name": "FF Sport King",
+  "short_name": "FF Sport King",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#070910",
+  "theme_color": "#ffd400",
+  "icons": []
+}
